@@ -3,9 +3,9 @@ import matplotlib.pyplot as plt
 import cv2
 import os, glob
 import numpy as np
-from moviepy.editor import VideoFileClip #moviepy==1.0.3
+#from moviepy.editor import VideoFileClip #moviepy==1.0.3
 cwd = os.getcwd()
-from tensorflow.keras.optimizers import Adam
+#from tensorflow.keras.optimizers import Adam
 from tensorflow import keras
 
 def show_images(images, cmap=None):
