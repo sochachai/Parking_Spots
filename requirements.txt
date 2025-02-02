@@ -8,4 +8,5 @@ pandas==2.2.3
 scikit-learn
 keras==3.7.0
 nltk==3.9.1
-opencv-python
+opencv-python-headless
+matplotlib
